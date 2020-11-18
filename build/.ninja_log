@@ -997,3 +997,12 @@
 43532	43547	1605694286412213025	CMakeFiles/espidf-arduino-bareminimum.elf.dir/project_elf_src.c.obj	6ef064339c9bc76
 43547	46534	1605694289392235228	espidf-arduino-bareminimum.elf	93b1525c66dfc08c
 46534	46834	1605694289700237523	.bin_timestamp	88ca0aaa0bc26bd5
+62	86	1605694257115994842	bootloader-prefix/src/bootloader-stamp/bootloader-build	e81d392cae36e534
+62	86	1605694257115994842	bootloader/bootloader.elf	e81d392cae36e534
+62	86	1605694257115994842	bootloader/bootloader.bin	e81d392cae36e534
+62	86	1605694257115994842	bootloader/bootloader.map	e81d392cae36e534
+62	786	1605695235543336249	esp-idf/main/CMakeFiles/__idf_main.dir/main.cpp.obj	7b01dbeea1b33fe7
+787	806	1605695235567336430	esp-idf/main/libmain.a	c56a43ff6ff7fe19
+806	1642	1605695236383342579	esp-idf/esp32/ld/esp32.project.ld	fa36935e8f2f8f30
+1642	4341	1605695239091362983	espidf-arduino-bareminimum.elf	93b1525c66dfc08c
+4341	4635	1605695239395365274	.bin_timestamp	88ca0aaa0bc26bd5
