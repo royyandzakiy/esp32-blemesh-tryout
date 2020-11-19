@@ -6,6 +6,10 @@ Currently I am experimenting on usage of ble_mesh, and will try different things
 
 - try ble_mesh_node onoff_server (uses esp_ble_mesh_gen_onoff_srv_t)
 - try modify onoff_server to use esp_ble_mesh_gen_power_level_srv_t
+- print current netkey, appkey
+
+## Questions
+- How to provision a new device to be a node, using another ESP32 (not through App)
 
 ---
 
